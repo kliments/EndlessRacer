@@ -1,0 +1,796 @@
+﻿Log file open, 02/09/18 11:53:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EndlessRacer
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2091096211) SRandInit(-2091096190).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321271
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/UE4/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.09-10.53.56:454][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-10.53.56:454][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.09-10.53.56:506][  0]LogInit: Computer: DESKTOP-MRFBV9Q
+[2018.02.09-10.53.56:506][  0]LogInit: User: Kliment
+[2018.02.09-10.53.56:506][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.09-10.53.56:506][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2018.02.09-10.53.56:507][  0]LogMemory: Memory total: Physical=7.5GB (8GB approx)
+[2018.02.09-10.53.56:507][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.09-10.53.56:507][  0]LogMemory: Process Physical Memory: 275.25 MB used, 275.25 MB peak
+[2018.02.09-10.53.56:507][  0]LogMemory: Process Virtual Memory: 269.61 MB used, 269.61 MB peak
+[2018.02.09-10.53.56:507][  0]LogMemory: Physical Memory: 3592.23 MB used,  4066.67 MB free, 7658.90 MB total
+[2018.02.09-10.53.56:507][  0]LogMemory: Virtual Memory: 677.32 MB used,  4066.67 MB free, 134217728.00 MB total
+[2018.02.09-10.53.57:043][  0]LogInit: Using OS detected language (en-US).
+[2018.02.09-10.53.57:043][  0]LogInit: Using OS detected locale (mk-MK).
+[2018.02.09-10.53.57:053][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.09-10.53.57:055][  0]LogTextLocalizationManager: No localization for 'mk-MK' exists, so 'en-US' will be used for the locale.
+[2018.02.09-10.53.58:377][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.09-10.53.59:452][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.09-10.53.59:488][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6620G' (Feature Level 11_0)
+[2018.02.09-10.53.59:488][  0]LogD3D11RHI:       495/0/3584 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.02.09-10.53.59:500][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.09-10.53.59:500][  0]LogD3D11RHI:       0/0/3829 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.09-10.53.59:500][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.09-10.53.59:526][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.09-10.53.59:526][  0]LogD3D11RHI:     GPU DeviceId: 0x9641 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.09-10.53.59:526][  0]LogWindows: EnumDisplayDevices:
+[2018.02.09-10.53.59:527][  0]LogWindows:    0. 'AMD Radeon HD 6620G' (P:1 D:1)
+[2018.02.09-10.53.59:528][  0]LogWindows:    1. 'AMD Radeon HD 6620G' (P:0 D:0)
+[2018.02.09-10.53.59:528][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.09-10.53.59:528][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6620G
+[2018.02.09-10.53.59:528][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.09-10.53.59:528][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.09-10.53.59:528][  0]LogRHI: Texture pool is 346 MB (70% of 495 MB)
+[2018.02.09-10.53.59:583][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.02.09-10.53.59:616][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.09-10.53.59:650][  0]LogD3D11RHI: GPU Timing Frequency: 50.000000 (Debug: 2 1)
+[2018.02.09-10.53.59:653][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Intermediate/Shaders/WorkingDirectory/22656/).
+[2018.02.09-10.53.59:654][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kliment/AppData/Local/Temp/UnrealShaderWorkingDir/AEBC9B804BEB406EE96DD5AE9B3F514E/'.
+[2018.02.09-10.53.59:654][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.09-10.54.04:224][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.09-10.54.04:438][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.09-10.54.04:640][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.09-10.54.04:940][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.09-10.54.05:231][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.09-10.54.05:552][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.09-10.54.05:751][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.09-10.54.05:946][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.09-10.54.06:115][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.09-10.54.06:315][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.09-10.54.06:507][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.09-10.54.06:695][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.09-10.54.06:882][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.09-10.54.07:069][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.09-10.54.07:462][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.09-10.54.07:462][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.09-10.54.07:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.09-10.54.07:816][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.09-10.54.08:107][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.09-10.54.08:218][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.09-10.54.08:404][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.09-10.54.08:595][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.09-10.54.08:792][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.09-10.54.08:977][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.09-10.54.08:977][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.09-10.54.10:996][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.09-10.54.11:231][  0]LogDerivedDataCache: Loaded boot cache 0.23s 78MB C:/Users/Kliment/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-10.54.11:231][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kliment/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.09-10.54.11:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.09-10.54.11:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.09-10.54.11:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.09-10.54.11:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.09-10.54.11:284][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.09-10.54.11:299][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kliment/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.09-10.54.11:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.09-10.54.11:334][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.09-10.54.11:336][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-10.54.11:336][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-10.54.12:504][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-10.54.13:692][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.09-10.54.14:053][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.09-10.54.14:053][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.09-10.54.14:053][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.09-10.54.14:053][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.09-10.54.14:053][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.09-10.54.14:166][  0]LogNetVersion: EndlessRacer , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1035556421)
+[2018.02.09-10.54.14:700][  0]LogAssetRegistry: FAssetRegistry took 0.0393 seconds to start up
+[2018.02.09-10.54.16:330][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.185449 seconds
+[2018.02.09-10.54.16:347][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.09-10.54.16:347][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.09-10.54.16:347][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.09-10.54.16:549][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.09-10.54.25:989][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.09-10.54.26:119][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.09-10.54.28:385][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.09-10.54.29:867][  0]SourceControl: Source control is disabled
+[2018.02.09-10.54.29:867][  0]SourceControl: Source control is disabled
+[2018.02.09-10.54.30:055][  0]SourceControl: Source control is disabled
+[2018.02.09-10.54.30:248][  0]SourceControl: Source control is disabled
+[2018.02.09-10.54.33:390][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.09-10.54.34:367][  0]LogOcInput: OculusInput pre-init called
+[2018.02.09-10.54.35:369][  0]LogEngine: Initializing Engine...
+[2018.02.09-10.54.35:386][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.02.09-10.54.36:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.09-10.54.36:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.09-10.54.36:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.09-10.54.36:472][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-10.54.36:521][  0]LogInit: FAudioDevice initialized.
+[2018.02.09-10.54.36:680][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/Kliment/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-10.54.36:717][  0]LogInit: Texture streaming: Enabled
+[2018.02.09-10.54.37:075][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.09-10.54.37:532][  0]LogInit: Transaction tracking system initialized
+[2018.02.09-10.54.38:651][  0]BlueprintLog: New page: Editor Load
+[2018.02.09-10.54.41:798][  0]LocalizationService: Localization service is disabled
+[2018.02.09-10.54.44:381][  0]LogConsoleResponse: Display: 
+[2018.02.09-10.54.44:894][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.09-10.54.44:894][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.09-10.54.44:894][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.09-10.54.46:074][  0]LogFileCache: Scanning file cache for directory 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/' took 0.03s
+[2018.02.09-10.54.49:226][  0]SourceControl: Source control is disabled
+[2018.02.09-10.54.49:226][  0]Cmd: MAP LOAD FILE="E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-10.54.49:227][  0]LightingResults: New page: Lighting Build
+[2018.02.09-10.54.49:376][  0]MapCheck: New page: Map Check
+[2018.02.09-10.54.49:377][  0]LightingResults: New page: Lighting Build
+[2018.02.09-10.54.51:938][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.09-10.54.52:331][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-10.54.52:373][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-10.54.52:547][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.112ms to complete.
+[2018.02.09-10.54.52:547][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 3.321
+[2018.02.09-10.54.52:929][  0]LogCollectionManager: Loaded 0 collections in 0.005396 seconds
+[2018.02.09-10.54.53:142][  0]LogFileCache: Scanning file cache for directory 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Collections/' took 0.01s
+[2018.02.09-10.54.53:142][  0]LogFileCache: Scanning file cache for directory 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/Developers/Kliment/Collections/' took 0.01s
+[2018.02.09-10.54.53:142][  0]LogFileCache: Scanning file cache for directory 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/Collections/' took 0.01s
+[2018.02.09-10.54.53:142][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.02.09-10.54.53:173][  0]LogContentBrowser: Native class hierarchy populated in 0.0285 seconds. Added 2365 classes and 522 folders.
+[2018.02.09-10.54.53:410][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.09-10.54.54:374][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.09-10.54.54:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.09-10.54.54:705][  0]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-10.54.54:712][  0]LogSlate: Took 0.000522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.09-10.54.54:739][  0]LogSlate: Took 0.011597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.09-10.54.55:258][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-10.54.56:076][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.09-10.54.56:076][  0]LogLoad: (Engine Initialization) Total time: 67.71 seconds
+[2018.02.09-10.54.56:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.09-10.54.56:077][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.09-10.54.56:077][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.09-10.54.56:420][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.09-10.54.56:421][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.09-10.54.56:421][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.02.09-10.54.56:422][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.02.09-10.54.56:422][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.02.09-10.54.56:480][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.09-10.54.56:827][  1]LogSlate: Took 0.012045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-10.54.57:730][  3]LogSlate: Took 0.000611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-10.54.58:380][  5]LogAssetRegistry: Asset discovery search completed in 43.7035 seconds
+[2018.02.09-10.54.58:385][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.02.09-10.54.58:386][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000208 seconds (updated 0 objects)
+[2018.02.09-11.06.42:518][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.06.42:656][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.06.42:659][236]PIE: New page: PIE session: VehicleAdvExampleMap (Feb 9, 2018, 1:06:42 PM)
+[2018.02.09-11.06.42:659][236]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.02.09-11.06.42:767][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107525s)
+[2018.02.09-11.06.42:769][236]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.02.09-11.06.42:770][236]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2018.02.09-11.06.42:770][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.110184s)
+[2018.02.09-11.06.42:802][236]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.06.42:823][236]LogInit: FAudioDevice initialized.
+[2018.02.09-11.06.43:179][236]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.06.43:207][236]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.02.09-12.06.43
+[2018.02.09-11.06.43:209][236]LogWorld: Bringing up level for play took: 0.017529
+[2018.02.09-11.06.43:366][236]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.02.09-11.06.43:374][236]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.402
+[2018.02.09-11.06.50:924][370]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-11.06.51:005][370]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.06.51:058][370]Cmd: MAP LOAD FILE="E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-11.06.51:058][370]LightingResults: New page: Lighting Build
+[2018.02.09-11.06.51:060][370]LoadErrors: New page: Loading map: Level1.umap
+[2018.02.09-11.06.51:065][370]MapCheck: New page: Map Check
+[2018.02.09-11.06.51:066][370]LightingResults: New page: Lighting Build
+[2018.02.09-11.06.51:121][370]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-11.06.51:225][370]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-11.06.51:420][370]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 194.362ms to complete.
+[2018.02.09-11.06.51:420][370]LogFileHelpers: Loading map 'Level1' took 0.364
+[2018.02.09-11.06.52:450][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.06.52:495][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.06.52:495][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.06.52:496][395]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:06:52 PM)
+[2018.02.09-11.06.52:496][395]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.06.52:514][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017803s)
+[2018.02.09-11.06.52:515][395]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.06.52:516][395]LogPlayLevel: PIE: World Init took: (0.001878s)
+[2018.02.09-11.06.52:516][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.020339s)
+[2018.02.09-11.06.52:550][395]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.06.52:569][395]LogInit: FAudioDevice initialized.
+[2018.02.09-11.06.52:617][395]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.06.52:625][395]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.06.52
+[2018.02.09-11.06.52:626][395]LogWorld: Bringing up level for play took: 0.001947
+[2018.02.09-11.06.52:637][395]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 -0.335
+[2018.02.09-11.06.52:638][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.07.04:163][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.07.04:238][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.07.15:917][  0]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-11.07.16:466][  0]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.02.09-11.07.18:910][  0]LogSlate: Took 0.012113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.09-11.07.19:198][  1]LogSlate: Took 0.012807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.09-11.07.21:385][124]LogRenderer: Reallocating scene render targets to support 856x588 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-11.08.00:471][927]BlueprintLog: New page: Compile BP_Floor1
+[2018.02.09-11.08.02:235][936]LogSavePackage: Save=130.91ms
+[2018.02.09-11.08.02:235][936]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor1C91D60C94F32C102219E40814EF7ADD8.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset'
+[2018.02.09-11.08.02:241][936]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset
+[2018.02.09-11.08.03:706][973]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.08.03:775][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.08.03:775][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.08.03:775][973]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:08:03 PM)
+[2018.02.09-11.08.03:776][973]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.08.03:791][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014855s)
+[2018.02.09-11.08.03:792][973]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.08.03:793][973]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2018.02.09-11.08.03:793][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.017445s)
+[2018.02.09-11.08.03:842][973]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.08.03:861][973]LogInit: FAudioDevice initialized.
+[2018.02.09-11.08.03:911][973]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.08.03:920][973]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.08.03
+[2018.02.09-11.08.03:921][973]LogWorld: Bringing up level for play took: 0.001890
+[2018.02.09-11.08.03:934][973]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 0.962
+[2018.02.09-11.08.03:935][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.09.51:083][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.09.51:152][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.19.44:089][902]BlueprintLog: New page: Compile BP_Floor
+[2018.02.09-11.19.46:062][917]LogSavePackage: Save=134.92ms
+[2018.02.09-11.19.46:062][917]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_FloorF5B0DDF84DCE3EB1BE0D3AB538D49021.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset'
+[2018.02.09-11.19.46:068][917]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset
+[2018.02.09-11.20.42:506][896]BlueprintLog: New page: Compile BP_Floor
+[2018.02.09-11.20.44:255][923]LogSavePackage: Save=143.97ms
+[2018.02.09-11.20.44:256][923]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor52C413B24F86A7B2E8C0B0B35088144C.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset'
+[2018.02.09-11.20.44:261][923]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset
+[2018.02.09-11.21.34:908][703]BlueprintLog: New page: Compile BP_Floor1
+[2018.02.09-11.21.36:723][734]LogSavePackage: Save=144.60ms
+[2018.02.09-11.21.36:723][734]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor12F0F7C1344CA0C71512B4892973C6137.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset'
+[2018.02.09-11.21.36:728][734]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset
+[2018.02.09-11.22.14:511][984]BlueprintLog: New page: Compile BP_Floor2
+[2018.02.09-11.22.16:414][ 18]LogSavePackage: Save=174.00ms
+[2018.02.09-11.22.16:414][ 18]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor28A3C292241CC5E8142FFF187B0181881.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor2.uasset'
+[2018.02.09-11.22.16:422][ 18]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor2.uasset
+[2018.02.09-11.24.43:932][176]BlueprintLog: New page: Compile BP_Floor3
+[2018.02.09-11.24.45:762][206]LogSavePackage: Save=141.32ms
+[2018.02.09-11.24.45:762][206]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor3F9700B2B48C6CC6E3CA332A61972B350.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor3.uasset'
+[2018.02.09-11.24.45:767][206]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor3.uasset
+[2018.02.09-11.24.47:467][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.24.47:562][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.24.47:563][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.24.47:563][277]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:24:47 PM)
+[2018.02.09-11.24.47:564][277]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.24.47:579][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015136s)
+[2018.02.09-11.24.47:581][277]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.24.47:581][277]LogPlayLevel: PIE: World Init took: (0.002246s)
+[2018.02.09-11.24.47:582][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.018154s)
+[2018.02.09-11.24.47:654][277]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.24.47:675][277]LogInit: FAudioDevice initialized.
+[2018.02.09-11.24.47:721][277]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.24.47:729][277]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.24.47
+[2018.02.09-11.24.47:730][277]LogWorld: Bringing up level for play took: 0.001843
+[2018.02.09-11.24.47:742][277]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 0.771
+[2018.02.09-11.24.47:743][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.24.50:833][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.24.50:890][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.25.11:109][ 95]BlueprintLog: New page: Compile BP_Floor1
+[2018.02.09-11.25.12:854][104]LogSavePackage: Save=148.75ms
+[2018.02.09-11.25.12:855][104]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor148535A88496F6BD478E0199CE28083E6.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset'
+[2018.02.09-11.25.12:860][104]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor1.uasset
+[2018.02.09-11.25.17:855][234]BlueprintLog: New page: Compile BP_Floor
+[2018.02.09-11.25.19:681][245]LogSavePackage: Save=149.42ms
+[2018.02.09-11.25.19:681][245]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_FloorDB5AB0934F982E36BBD47E8B250A7705.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset'
+[2018.02.09-11.25.19:687][245]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor.uasset
+[2018.02.09-11.25.30:084][563]BlueprintLog: New page: Compile BP_Floor2
+[2018.02.09-11.25.31:840][570]LogSavePackage: Save=180.27ms
+[2018.02.09-11.25.31:840][570]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor239D913A94A80321FDB72079E5125154A.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor2.uasset'
+[2018.02.09-11.25.31:845][570]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor2.uasset
+[2018.02.09-11.25.43:434][928]BlueprintLog: New page: Compile BP_Floor3
+[2018.02.09-11.25.45:320][940]LogSavePackage: Save=143.60ms
+[2018.02.09-11.25.45:320][940]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/BP_Floor3E00112894738AAFB3384169EC480F56D.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor3.uasset'
+[2018.02.09-11.25.45:326][940]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/BP_Floor3.uasset
+[2018.02.09-11.25.47:171][990]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.25.47:267][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.25.47:268][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.25.47:268][990]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:25:47 PM)
+[2018.02.09-11.25.47:268][990]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.25.47:283][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014022s)
+[2018.02.09-11.25.47:284][990]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.25.47:285][990]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2018.02.09-11.25.47:285][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.016620s)
+[2018.02.09-11.25.47:355][990]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.25.47:374][990]LogInit: FAudioDevice initialized.
+[2018.02.09-11.25.47:424][990]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.25.47:433][990]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.25.47
+[2018.02.09-11.25.47:433][990]LogWorld: Bringing up level for play took: 0.001872
+[2018.02.09-11.25.47:443][990]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 0.471
+[2018.02.09-11.25.47:444][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.25.50:922][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.25.50:988][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.31.57:482][994]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/spacescape/save/Skybox.dds)
+[2018.02.09-11.31.57:870][994]LogTexture: Display: Building textures: Skybox (AutoDXT, 1024X1024)
+[2018.02.09-11.34.07:453][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/Level1' took 0.060
+[2018.02.09-11.34.07:460][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Skybox/Skybox] ([1] browsable assets)...
+[2018.02.09-11.34.07:486][995]OBJ SavePackage:     Rendered thumbnail for [TextureCube /Game/VehicleAdvBP/Skybox/Skybox.Skybox]
+[2018.02.09-11.34.07:486][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Skybox/Skybox]
+[2018.02.09-11.34.07:572][995]LogSavePackage: Save=80.86ms
+[2018.02.09-11.34.07:572][995]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Skybox_Auto10D05A0984A8296A66A2BABA9147D55B0.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Autosaves/Game/VehicleAdvBP/Skybox/Skybox_Auto1.uasset'
+[2018.02.09-11.34.07:573][995]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Autosaves/Game/VehicleAdvBP/Skybox/Skybox_Auto1.uasset
+[2018.02.09-11.34.07:573][995]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.02.09-11.35.19:364][869]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.02.09-11.35.28:434][486]LogTexture: Display: Building textures: Skybox (BGRA8, 1024X1024)
+[2018.02.09-11.39.04:996][839]LogTexture: Display: Building textures: Skybox (BGRA8, 1024X1024)
+[2018.02.09-11.41.48:575][262]LogTexture: Display: Building textures: Skybox (BGRA8, 1024X1024)
+[2018.02.09-11.42.00:495][255]LogTexture: Display: Building textures: Skybox (BGRA8, 1024X1024)
+[2018.02.09-11.42.13:131][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Skybox/Skybox" FILE="E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Skybox/Skybox.uasset" SILENT=true
+[2018.02.09-11.42.14:362][ 30]LogSavePackage: Save=1224.78ms
+[2018.02.09-11.42.14:362][ 30]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxE91DB12546EEAB1A0FAE418C94F76FE2.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Skybox/Skybox.uasset'
+[2018.02.09-11.42.14:374][ 30]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Skybox/Skybox.uasset
+[2018.02.09-11.42.33:545][751]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2018.02.09-11.42.33:553][751]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.34:641][751]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.44:442][ 30]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.02.09-11.42.44:442][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.02.09-11.42.44:442][ 30]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.42.44:442][ 30]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.09-11.42.49:624][205]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.49:658][205]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.51:885][274]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.42.51:885][274]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.42.51:885][274]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.42.52:118][280]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.52:144][280]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.42.54:142][307]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.42.54:143][307]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.42.54:143][307]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.43.07:202][640]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.43.07:222][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.09-11.43.09:133][703]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.43.09:134][703]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.43.09:134][703]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.43.09:349][709]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.43.11:190][767]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.43.11:191][767]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.43.11:191][767]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.43.47:475][605]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.43.47:495][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.09-11.43.50:439][669]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.43.50:439][669]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.43.50:439][669]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.43.55:428][801]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.43.57:233][857]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.43.57:233][857]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.43.57:233][857]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.43.59:862][913]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.43.59:888][913]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.09-11.44.02:433][971]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.02:433][971]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.02:433][971]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.10:840][179]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.10:859][179]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.09-11.44.13:002][220]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.13:002][220]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.13:002][220]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.17:101][298]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.19:117][325]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.19:117][325]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.19:117][325]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.27:040][525]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.27:060][525]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0, compiling. 
+[2018.02.09-11.44.29:247][593]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.32:797][691]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.32:797][691]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.32:798][691]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.38:081][863]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.38:100][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2018.02.09-11.44.39:560][907]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.41:522][932]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.41:522][932]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.41:522][932]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.49:046][139]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.49:066][139]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.02.09-11.44.50:848][194]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.50:848][194]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.50:848][194]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.44.55:290][292]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.44.55:315][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.02.09-11.44.57:317][352]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.44.57:317][352]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.44.57:317][352]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.45.04:193][554]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.45.04:218][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.02.09-11.45.06:448][624]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.09-11.45.06:449][624]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.45.06:449][624]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.09-11.45.06:716][631]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.45.06:747][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.02.09-11.45.10:608][760]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2018.02.09-11.45.10:608][760]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-11.45.10:608][760]MaterialEditorStats: Texture samplers: 1/16
+[2018.02.09-11.45.20:008][102]LogMaterialEditor: Saving and Compiling material SkyboxMat
+[2018.02.09-11.45.22:934][102]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.45.23:028][102]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.45.23:087][102]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.45.23:220][102]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyboxMat, compiling. 
+[2018.02.09-11.45.24:016][102]TextureStreamingBuild: Display: Compiling optional shaders took 0.810 seconds.
+[2018.02.09-11.45.27:597][102]LogSavePackage: Save=46.48ms
+[2018.02.09-11.45.27:597][102]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxMat45D344B449581C8F63B8738C52422E60.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Materials/SkyboxMat.uasset'
+[2018.02.09-11.45.27:601][102]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Materials/SkyboxMat.uasset
+[2018.02.09-11.45.27:633][102]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2018.02.09-11.45.27:633][102]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.02.09-11.45.27:633][102]MaterialEditorStats: Texture samplers: 1/16
+[2018.02.09-11.45.48:803][648]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.02.09-11.45.48:875][648]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2018.02.09-11.45.54:958][844]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.02.09-11.45.55:028][844]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.02.09-11.47.14:821][896]LogEditorActor: Deleted Actor: Actor
+[2018.02.09-11.47.14:889][896]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.02.09-11.47.45:548][517]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.09-11.48.22:818][358]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.09-11.49.07:264][131]BlueprintLog: New page: Compile SkyboxActor
+[2018.02.09-11.49.09:014][143]LogSavePackage: Save=53.09ms
+[2018.02.09-11.49.09:014][143]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxActorABE46567419022A482E7B8AE70F56E09.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset'
+[2018.02.09-11.49.09:019][143]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset
+[2018.02.09-11.49.33:446][676]LogSavePackage: Save=35.83ms
+[2018.02.09-11.49.33:446][676]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxActor976DF69C40EB7383EFB142A1BBDE89AD.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset'
+[2018.02.09-11.49.33:452][676]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset
+[2018.02.09-11.49.40:447][849]LogSavePackage: Save=387.72ms
+[2018.02.09-11.49.40:447][849]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level151C9C6C541FA8844E8DB959D996BB1E2.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap'
+[2018.02.09-11.49.40:454][849]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap
+[2018.02.09-11.49.40:616][849]LogSavePackage: Save=44.75ms
+[2018.02.09-11.49.40:617][849]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level1_BuiltDataBE41D60247FDC1DC95C2A3A2E4440ABD.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset'
+[2018.02.09-11.49.40:620][849]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset
+[2018.02.09-11.49.55:965][277]MapCheck: New page: Map Check
+[2018.02.09-11.49.56:020][277]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.09-11.49.56:021][277]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.09-11.49.56:218][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-11.49.56:235][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyboxMat, compiling. 
+[2018.02.09-11.49.57:380][277]TextureStreamingBuild: Display: Compiling optional shaders took 1.246 seconds.
+[2018.02.09-11.49.57:397][277]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2018.02.09-11.49.57:420][277]TextureStreamingBuild: Display: Build Texture Streaming took 0.022 seconds.
+[2018.02.09-11.49.57:490][277]LightingResults: New page: Lighting Build - Feb 9, 2018, 1:49:57 PM
+[2018.02.09-11.49.57:617][277]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.09-11.49.57:714][277]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.09-11.49.57:748][277]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.09-11.49.59:301][277]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.09-11.49.59:301][277]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22656
+[2018.02.09-11.50.12:004][277]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.09-11.50.12:005][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.09-11.50.12:006][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.09-11.50.12:006][277]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.09-11.50.12:006][277]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.09-11.50.12:006][277]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.09-11.50.12:531][277]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.09-11.50.12:532][277]MapCheck: New page: Level1 - Feb 9, 2018, 1:50:12 PM
+[2018.02.09-11.50.12:534][277]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.02.09-11.50.12:534][277]MapCheck: Warning: SkyboxActor_13 Collision enabled but StaticMesh (SM_SkySphere) has no simple or complex collision. 
+[2018.02.09-11.50.12:743][277]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 211.151ms to complete.
+[2018.02.09-11.50.12:767][277]LogEditorBuildUtils: Build time 0:16
+[2018.02.09-11.50.12:824][277]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SkyboxMat, compiling. 
+[2018.02.09-11.50.12:840][277]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SkyboxMat, compiling. 
+[2018.02.09-11.50.13:030][278]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-11.50.13:053][278]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-11.50.20:378][339]Job is a success!
+[2018.02.09-11.50.20:563][340]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.02.09-11.50.20:563][340]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.09-11.50.20:563][340]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.02.09-11.50.20:563][340]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.09-11.50.20:564][340]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.02.09-11.50.20:564][340]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.02.09-11.50.20:564][340]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.02.09-11.50.20:574][340]LogMaterial: Warning: Material /Game/VehicleAdvBP/Materials/SkyboxMat.SkyboxMat needed to have new flag set bUsedWithStaticLighting !
+[2018.02.09-11.50.20:579][340]LogMaterial: Missing cached shader map for material SkyboxMat, compiling. 
+[2018.02.09-11.50.20:695][340]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2018.02.09-11.50.20:695][340]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2018.02.09-11.50.20:695][340]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.02.09-11.50.20:782][340]Lightmass on DESKTOP-MRFBV9Q: 2.26 sec total, 545 ms importing, 84 ms setup, 356 ms photons, 1.17 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.61 sec total, 542 ms processing.
+[2018.02.09-11.50.20:882][340]LogStaticLightingSystem: Illumination: 23.3 sec (19 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2018.02.09-11.50.20:882][340]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.09-11.50.20:882][340]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.02.09-11.50.21:002][340]DumpUnbuiltLightIteractions
+[2018.02.09-11.50.21:002][340]Lights with unbuilt interactions: 0
+[2018.02.09-11.50.21:002][340]
+[2018.02.09-11.50.21:002][340]Primitives with unbuilt interactions: 0
+[2018.02.09-11.50.21:022][341]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.09-11.50.21:022][341]MapCheck: New page: Level1 - Feb 9, 2018, 1:50:21 PM
+[2018.02.09-11.50.21:023][341]MapCheck: Warning: SkyboxActor_13 Collision enabled but StaticMesh (SM_SkySphere) has no simple or complex collision. 
+[2018.02.09-11.50.21:239][341]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 217.271ms to complete.
+[2018.02.09-11.51.19:690][267]BlueprintLog: New page: Compile SkyboxActor
+[2018.02.09-11.51.22:330][281]LogSavePackage: Save=72.83ms
+[2018.02.09-11.51.22:330][281]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxActorE6C86C6941F941B116A52C8973B8A4AE.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset'
+[2018.02.09-11.51.22:337][281]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset
+[2018.02.09-11.52.21:174][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.09-11.52.21:175][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.09-11.52.21:175][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.09-11.52.21:175][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.09-11.52.21:175][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.09-11.52.21:175][306]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.09-11.52.22:367][336]BlueprintLog: New page: Compile SkyboxActor
+[2018.02.09-11.52.24:540][351]LogSavePackage: Save=49.96ms
+[2018.02.09-11.52.24:540][351]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/SkyboxActorAB39A9DC41D42DD7DFEB748BA25393B8.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset'
+[2018.02.09-11.52.24:546][351]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Blueprints/SkyboxActor.uasset
+[2018.02.09-11.52.27:456][414]LogSavePackage: Save=382.43ms
+[2018.02.09-11.52.27:456][414]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level19E94B9194D76BA841FF5F7AC12AF3592.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap'
+[2018.02.09-11.52.27:461][414]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap
+[2018.02.09-11.52.27:568][414]LogSavePackage: Save=20.43ms
+[2018.02.09-11.52.27:568][414]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level1_BuiltDataBF62E3B54ECAECAA199544B07517ACD4.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset'
+[2018.02.09-11.52.27:573][414]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset
+[2018.02.09-11.52.29:365][465]MapCheck: New page: Map Check
+[2018.02.09-11.52.29:414][465]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.09-11.52.29:415][465]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.09-11.52.29:524][465]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-11.52.29:541][465]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyboxMat, compiling. 
+[2018.02.09-11.52.30:625][465]TextureStreamingBuild: Display: Compiling optional shaders took 1.114 seconds.
+[2018.02.09-11.52.30:641][465]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2018.02.09-11.52.30:663][465]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2018.02.09-11.52.30:728][465]LightingResults: New page: Lighting Build - Feb 9, 2018, 1:52:30 PM
+[2018.02.09-11.52.30:749][465]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.09-11.52.30:757][465]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.09-11.52.30:757][465]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.09-11.52.30:759][465]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.09-11.52.30:759][465]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22656
+[2018.02.09-11.52.54:524][465]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.09-11.52.54:524][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.09-11.52.54:524][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.09-11.52.54:524][465]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.09-11.52.54:524][465]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.09-11.52.54:525][465]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.09-11.52.54:933][465]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.09-11.52.54:933][465]MapCheck: New page: Level1 - Feb 9, 2018, 1:52:54 PM
+[2018.02.09-11.52.55:126][465]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 192.917ms to complete.
+[2018.02.09-11.52.55:151][465]LogEditorBuildUtils: Build time 0:25
+[2018.02.09-11.52.55:173][465]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SkyboxMat, compiling. 
+[2018.02.09-11.52.55:189][465]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SkyboxMat, compiling. 
+[2018.02.09-11.52.59:984][523]Job is a success!
+[2018.02.09-11.53.00:170][524]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2018.02.09-11.53.00:170][524]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.09-11.53.00:171][524]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.02.09-11.53.00:171][524]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.09-11.53.00:171][524]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.02.09-11.53.00:171][524]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.02.09-11.53.00:171][524]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.02.09-11.53.00:226][524]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2018.02.09-11.53.00:226][524]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2018.02.09-11.53.00:226][524]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.02.09-11.53.00:269][524]Lightmass on DESKTOP-MRFBV9Q: 2.11 sec total, 557 ms importing, 76 ms setup, 353 ms photons, 1.06 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.15 sec total, 491 ms processing.
+[2018.02.09-11.53.00:359][524]LogStaticLightingSystem: Illumination: 29.5 sec (18 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2018.02.09-11.53.00:360][524]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.09-11.53.00:360][524]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.02.09-11.53.00:539][524]DumpUnbuiltLightIteractions
+[2018.02.09-11.53.00:539][524]Lights with unbuilt interactions: 0
+[2018.02.09-11.53.00:539][524]
+[2018.02.09-11.53.00:539][524]Primitives with unbuilt interactions: 0
+[2018.02.09-11.53.00:886][525]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.09-11.53.00:886][525]MapCheck: New page: Level1 - Feb 9, 2018, 1:53:00 PM
+[2018.02.09-11.53.01:088][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 201.41ms to complete.
+[2018.02.09-11.53.02:627][564]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.53.02:728][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.53.02:729][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.53.02:729][564]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:53:02 PM)
+[2018.02.09-11.53.02:729][564]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.53.02:735][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005643s)
+[2018.02.09-11.53.02:737][564]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.53.02:738][564]LogPlayLevel: PIE: World Init took: (0.002352s)
+[2018.02.09-11.53.02:738][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.008730s)
+[2018.02.09-11.53.02:811][564]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.53.02:838][564]LogInit: FAudioDevice initialized.
+[2018.02.09-11.53.02:887][564]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.53.02:895][564]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.53.02
+[2018.02.09-11.53.02:896][564]LogWorld: Bringing up level for play took: 0.001760
+[2018.02.09-11.53.02:911][564]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 -0.061
+[2018.02.09-11.53.02:913][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.53.19:465][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.53.19:539][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.54.19:108][832]LogSavePackage: Save=381.81ms
+[2018.02.09-11.54.19:108][832]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level162B6FA4845C72D3A2F5071BF69F075F6.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap'
+[2018.02.09-11.54.19:114][832]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1.umap
+[2018.02.09-11.54.19:221][832]LogSavePackage: Save=20.07ms
+[2018.02.09-11.54.19:221][832]LogSavePackage: Moving 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Saved/Level1_BuiltDataA489408840913486F46A2CBE62F41FAE.tmp' to 'E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset'
+[2018.02.09-11.54.19:227][832]LogSavePackage: Display: Finished SavePackage E:/STUDIES/III semester - Prague/Games Development Middleware/EndlessRacer/Content/VehicleAdvBP/Maps/Level1_BuiltData.uasset
+[2018.02.09-11.54.20:247][862]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-11.54.20:341][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.54.20:342][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-11.54.20:342][862]PIE: New page: PIE session: Level1 (Feb 9, 2018, 1:54:20 PM)
+[2018.02.09-11.54.20:343][862]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1
+[2018.02.09-11.54.20:348][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005466s)
+[2018.02.09-11.54.20:350][862]LogAIModule: Creating AISystem for world Level1
+[2018.02.09-11.54.20:351][862]LogPlayLevel: PIE: World Init took: (0.001950s)
+[2018.02.09-11.54.20:351][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Level1.Level1 to /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 (0.008168s)
+[2018.02.09-11.54.20:419][862]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-11.54.20:438][862]LogInit: FAudioDevice initialized.
+[2018.02.09-11.54.20:483][862]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.02.09-11.54.20:491][862]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.02.09-12.54.20
+[2018.02.09-11.54.20:492][862]LogWorld: Bringing up level for play took: 0.001767
+[2018.02.09-11.54.20:505][862]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_Level1 -0.467
+[2018.02.09-11.54.20:506][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.55.54:892][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.02.09-11.55.54:968][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/VehicleAdvBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/Level1.Level1:PersistentLevel.Level1'
